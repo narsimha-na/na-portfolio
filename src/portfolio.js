@@ -8,7 +8,7 @@ export const greetings = {
     title: "Hi all, I'm Narsimha Reddy S",
     desc2: "A passionate Full Stack Web and Mobile App Developer, I enjoy building a great applications & solve problems for which I can be techincal bridge to you and your idea. So I would love to work on differnt kind of projects and solve problems",
     description: "I am a developer who started developing from the age of 16 and developed my first native android applicaiton at 18 , having an experience of 3 plus Years building Web, Native Mobile Applicaiton, Hybrid Applications & RESTful Web Services  with Flutter / Angular / Nodejs / Spring Boot / Java / Kotlin .",
-    resumeLink: "https://drive.google.com/file/d/1JMz_oq8NdgfXSpfX6zKpGGVQibO8wFmw/view?usp=sharing",
+    resumeLink: "https://drive.google.com/file/d/1MI4R32vaKCK_OXnL2nzdp4UrYAxqeaLc/view?usp=sharing",
 };
 
 export const openSource = {
@@ -18,9 +18,9 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-    facebook: "https://www.facebook.com/1hanzla100",
+    facebook: "https://www.facebook.com/Narsimha.NA/",
     instagram: "https://www.instagram.com/include_narsimha.na/",
-    twitter: "https://twitter.com/1hanzla100",
+    twitter: "https://twitter.com/pandudtb",
     github: "https://github.com/narsimha-na",
     linkedin: "https://www.linkedin.com/in/subbagari-narsimha-reddy-3976b113a/",
 };
@@ -30,6 +30,9 @@ export const skillsSection = {
     subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
     skills: [
         emoji(
+            "⚡ Desgin & Develop API's Services in both Spring Boot & NodeJS"
+        ),
+        emoji(
             "⚡ Develop highly interactive Front end / User Interfaces for your Web Applications (Angular & ReactJS)"
         ),
         emoji(
@@ -37,9 +40,6 @@ export const skillsSection = {
         ),
         emoji(
             "⚡ Fully Scalable RESTful Web Services with both SQL & NoSQL Databases"
-        ),
-        emoji(
-            "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
         ),
         emoji(
             "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
@@ -51,7 +51,7 @@ export const skillsSection = {
             "⚡ Developed RESTful web-services using Spring Boot & NodeJS"
         ),
         emoji(
-            "⚡ Developed Frontend Applications using Angular (Version 4-8) and ReactJS"
+            "⚡ Developed Frontend Applications using Angular (Version 4-11) and ReactJS"
         ),
         emoji(
             "⚡ Developed Native Anroid Applications using Java & Kotlin"

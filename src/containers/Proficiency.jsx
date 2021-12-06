@@ -22,7 +22,7 @@ const Proficiency = () => {
                         <h1 className="h1">Worked With</h1>
                         <div>
                             {
-                                skillsSection.skills.map(skill => {
+                                skillsSection.works.map(skill => {
                                     return <p key={skill}>{skill}</p>
                                 })
                             }
