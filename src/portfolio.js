@@ -7,7 +7,7 @@ export const greetings = {
     name: "{ Narsimha Reddy S }",
     title: "Hi all, I'm Narsimha Reddy S",
     desc2: "A passionate Full Stack Web and Mobile App Developer, I enjoy building a great applications & solve problems for which I can be techincal bridge to you and your idea. So I would love to work on differnt kind of projects and solve problems",
-    description: "I am a developer who started developing from the age of 16 and developed my first native android applicaiton at 18 , having an experience of 3 plus Years building Web, Native Mobile Applicaiton, Hybrid Applications & RESTful Web Services  with Flutter / Angular / Nodejs / Spring Boot / Java / Kotlin .",
+    description: "I am a developer who started developing from the age of 16 and developed my first native android applicaiton at 18 , having an experience of 2+ Years building Web, Native Mobile Applicaiton, Hybrid Applications & RESTful Web Services  with Flutter / Angular / Nodejs / Spring Boot / Java / Kotlin .",
     resumeLink: "https://drive.google.com/file/d/1MI4R32vaKCK_OXnL2nzdp4UrYAxqeaLc/view?usp=sharing",
 };
 
