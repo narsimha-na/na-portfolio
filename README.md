@@ -1,4 +1,4 @@
-# developer-portfolio <a href="https://github.com/1Narsimha NA's100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1Narsimha NA's100/developer-portfolio"></a><a href="https://github.com/1Narsimha NA's100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1Narsimha NA's100/developer-portfolio"></a><a href="https://github.com/1Narsimha NA's100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1Narsimha NA's100/developer-portfolio"></a> <a href="https://github.com/1Narsimha NA's100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1Narsimha NA's100/developer-portfolio"></a>
+<!-- # developer-portfolio <a href="https://github.com/1Narsimha NA's100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1Narsimha NA's100/developer-portfolio"></a><a href="https://github.com/1Narsimha NA's100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1Narsimha NA's100/developer-portfolio"></a><a href="https://github.com/1Narsimha NA's100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1Narsimha NA's100/developer-portfolio"></a> <a href="https://github.com/1Narsimha NA's100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1Narsimha NA's100/developer-portfolio"></a>
 
 ## Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.
 
@@ -101,4 +101,4 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 -   Enable Dark Mode
 
--   Add More Sections
+-   Add More Sections -->
