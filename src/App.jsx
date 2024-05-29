@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Navigation from "./components/Navigation";
 import Greetings from "./containers/Greetings";
@@ -14,7 +14,7 @@ import Feedbacks from "./containers/Feedbacks";
 const App = () => {
   return (
     <BrowserRouter>
-      <Switch>
+      <Routes>
         <Route
           path="/"
           exact
@@ -32,7 +32,7 @@ const App = () => {
             </div>
           )}
         />
-      </Switch>
+      </Routes>
     </BrowserRouter>
   );
 };
