@@ -27,7 +27,7 @@ export const socialLinks = {
   instagram: "https://www.instagram.com/include_narsimha.na/",
   twitter: "https://twitter.com/pandudtb",
   github: "https://github.com/narsimha-na",
-  linkedin: "https://www.linkedin.com/in/subbagari-narsimha-reddy-3976b113a/",
+  linkedin: "https://www.linkedin.com/in/narsimha-reddy-s-3976b113a/",
 };
 
 export const skillsSection = {
