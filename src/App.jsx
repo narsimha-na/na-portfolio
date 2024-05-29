@@ -12,29 +12,29 @@ import GithubProfile from "./containers/GithubProfile";
 import Feedbacks from "./containers/Feedbacks";
 
 const App = () => {
-	return (
-		<BrowserRouter>
-			<Switch>
-				<Route
-					path="/"
-					exact
-					render={(props) => (
-						<div>
-							<Navigation />
-							<Greetings />
-							<Skills />
-							<Proficiency />
-							<Education />
-							<Experience />
-							{/* <Feedbacks /> */}
-							<Projects />
-							<GithubProfile />
-						</div>
-					)}
-				/>
-			</Switch>
-		</BrowserRouter>
-	);
+  return (
+    <BrowserRouter>
+      <Switch>
+        <Route
+          path="/"
+          exact
+          render={(props) => (
+            <div>
+              <Navigation />
+              <Greetings />
+              <Skills />
+              {/* <Proficiency /> */}
+              <Education />
+              <Experience />
+              {/* <Feedbacks /> */}
+              <Projects />
+              <GithubProfile />
+            </div>
+          )}
+        />
+      </Switch>
+    </BrowserRouter>
+  );
 };
 
 export default App;
